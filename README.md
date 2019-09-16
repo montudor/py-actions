@@ -3,7 +3,7 @@
 ## Archived Notice
 
 **This package has been archived due to the new
-[YAML syntax](https://help.github.com/en/articles/migrating-github-actions-from-hcl-syntax-to-yaml-syntax#about-the-new-yaml-syntax-for-github-actions). for [GitHub Actions](https://github.com/features/actions)**
+[YAML syntax](https://help.github.com/en/articles/migrating-github-actions-from-hcl-syntax-to-yaml-syntax#about-the-new-yaml-syntax-for-github-actions) for [GitHub Actions](https://github.com/features/actions)**.
 
 ## Description
 
